@@ -1,2 +1,2 @@
 # Gitチュートリアルです
-- feature-A
+- feature-Aです
